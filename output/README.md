@@ -8,7 +8,7 @@ The output file is created after training the model on historical customer data 
 
 # File
 
-### Car_Prediction.xlsx
+### Car_Prediction.csv
 
 This file contains the prediction results for new customers.
 
@@ -48,7 +48,7 @@ Predict Purchase Likelihood
 Export Results
       │
       ▼
-Car_Prediction.xlsx
+Car_Prediction.csv
 ```
 
 ---
