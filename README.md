@@ -169,7 +169,7 @@ Hybrid-Vehicle-Purchase-Prediction/
 ├── output/
 │   └── Car_Prediction.xlsx
 │
-├── screenshots/
+├── screenshot/
 │   ├── regression_summary.png
 │   ├── prediction_distribution.png
 │   └── income_vs_prediction.png
@@ -199,7 +199,7 @@ The following visualizations summarize the regression analysis and prediction re
 The regression summary provides key statistics including **R², ANOVA, regression coefficients, and p-values** generated using Microsoft Excel Analysis ToolPak.
 
 <p align="center">
-  <img src="./screenshots/regression_summary.png" width="850">
+  <img src="./screenshot/regression_summary.png" width="850">
 </p>
 
 ---
@@ -209,7 +209,7 @@ The regression summary provides key statistics including **R², ANOVA, regressio
 This histogram shows how the predicted purchase percentages are distributed across new customers.
 
 <p align="center">
-  <img src="./screenshots/prediction_distribution.png" width="850">
+  <img src="./screenshot/prediction_distribution.png" width="850">
 </p>
 
 ---
@@ -219,7 +219,7 @@ This histogram shows how the predicted purchase percentages are distributed acro
 This scatter plot illustrates the relationship between customer income and the predicted purchase likelihood.
 
 <p align="center">
-  <img src="./screenshots/income_vs_prediction.png" width="850">
+  <img src="./screenshot/income_vs_prediction.png" width="850">
 </p>
 
 
