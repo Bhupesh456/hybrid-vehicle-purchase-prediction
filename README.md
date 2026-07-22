@@ -5,6 +5,16 @@
 ![Excel](https://img.shields.io/badge/Microsoft-Excel-green)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-red)
 
+## My Learning Journey
+
+I recently completed an introductory Machine Learning course where I learned the fundamentals of **Linear Regression**. Rather than stopping at the theory, I wanted to understand how the algorithm works behind the scenes.
+
+I first implemented Linear Regression in **Microsoft Excel** using the Analysis ToolPak, where I explored concepts such as regression statistics, coefficients, intercept, ANOVA, and the regression equation **(Y = a + bX)**. By manually applying the regression equation, I gained a deeper understanding of how predictions are calculated.
+
+After building this foundation, I implemented the same problem in Python using **Scikit-learn**. I trained a Linear Regression model on historical customer data and used it to predict the purchase likelihood of new customers.
+
+This project helped me connect the mathematical concepts of Linear Regression with their practical implementation in Python, strengthening both my analytical thinking and machine learning skills.
+
 ## Project Overview
 
 This project demonstrates how **Linear Regression** can be applied to predict the likelihood of customers purchasing a hybrid vehicle.
