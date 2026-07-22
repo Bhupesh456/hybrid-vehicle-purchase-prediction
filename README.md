@@ -190,40 +190,38 @@ The prediction results can assist businesses in:
 
 ---
 
-# Project Visualizations
+## Visualizations
 
-This folder contains the key visualizations generated during the **Hybrid Vehicle Purchase Prediction** project.
+The following visualizations summarize the regression analysis and prediction results.
 
----
+### Regression Summary (Excel)
 
-## 1. Regression Summary (Excel)
-
-The regression summary generated using Microsoft Excel Analysis ToolPak provides regression statistics, ANOVA results, regression coefficients, and p-values used to evaluate the Linear Regression model.
+The regression summary provides key statistics including **R², ANOVA, regression coefficients, and p-values** generated using Microsoft Excel Analysis ToolPak.
 
 <p align="center">
-  <img src="regression_summary.png" alt="Regression Summary" width="800">
+  <img src="./screenshots/regression_summary.png" width="850">
 </p>
 
 ---
 
-## 2. Distribution of Predicted Purchase Percentage
+### Distribution of Predicted Purchase Percentage
 
-This histogram shows the distribution of predicted purchase percentages for new customers, helping visualize how purchase likelihood is spread across the dataset.
+This histogram shows how the predicted purchase percentages are distributed across new customers.
 
 <p align="center">
-  <img src="prediction_distribution.png" alt="Prediction Distribution" width="800">
+  <img src="./screenshots/prediction_distribution.png" width="850">
 </p>
 
 ---
 
-## 3. Income vs Predicted Purchase
+### Income vs Predicted Purchase
 
-This scatter plot illustrates the relationship between customer income and the predicted purchase likelihood. The upward trend indicates that customers with higher incomes generally have a higher predicted probability of purchasing a hybrid vehicle.
+This scatter plot illustrates the relationship between customer income and the predicted purchase likelihood.
 
 <p align="center">
-  <img src="income_vs_prediction.png" alt="Income vs Predicted Purchase" width="800">
+  <img src="./screenshots/income_vs_prediction.png" width="850">
 </p>
----
+
 
 # Key Learning Outcomes
 
