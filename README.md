@@ -193,17 +193,37 @@ The prediction results can assist businesses in:
 
 ---
 
-# Visualizations
+## Visualizations
 
-The project includes several visualizations to better understand the model and prediction results.
+The following visualizations provide insights into the Linear Regression model and its predictions.
 
-- Regression Summary (Excel)
-- Prediction Distribution
-- Feature Importance
-- Age vs Predicted Purchase
-- Income vs Predicted Purchase
+### 1. Regression Summary (Excel)
 
-*(Screenshots will be added here.)*
+The regression summary generated using Microsoft Excel Analysis ToolPak provides important statistical measures, including **R², ANOVA, regression coefficients, and p-values**, to evaluate the model's performance and the significance of each predictor.
+
+<p align="center">
+  <img src="screenshots/regression_summary.png" alt="Regression Summary" width="800">
+</p>
+
+---
+
+### 2. Distribution of Predicted Purchase Percentage
+
+This histogram illustrates the distribution of predicted purchase percentages for new customers. It provides an overview of how purchase likelihood is spread across the dataset.
+
+<p align="center">
+  <img src="screenshots/prediction_distribution.png" alt="Prediction Distribution" width="800">
+</p>
+
+---
+
+### 3. Income vs Predicted Purchase
+
+This scatter plot shows the relationship between customer income and the predicted likelihood of purchasing a hybrid vehicle. The upward trend indicates that higher-income customers generally have a higher predicted purchase likelihood.
+
+<p align="center">
+  <img src="screenshots/income_vs_prediction.png" alt="Income vs Predicted Purchase" width="800">
+</p>
 
 ---
 
