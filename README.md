@@ -172,10 +172,7 @@ Hybrid-Vehicle-Purchase-Prediction/
 ├── screenshots/
 │   ├── regression_summary.png
 │   ├── prediction_distribution.png
-│   ├── feature_importance.png
-│   ├── age_vs_prediction.png
 │   └── income_vs_prediction.png
-│
 └── README.md
 ```
 
@@ -193,38 +190,39 @@ The prediction results can assist businesses in:
 
 ---
 
-## Visualizations
+# Project Visualizations
 
-The following visualizations provide insights into the Linear Regression model and its predictions.
+This folder contains the key visualizations generated during the **Hybrid Vehicle Purchase Prediction** project.
 
-### 1. Regression Summary (Excel)
+---
 
-The regression summary generated using Microsoft Excel Analysis ToolPak provides important statistical measures, including **R², ANOVA, regression coefficients, and p-values**, to evaluate the model's performance and the significance of each predictor.
+## 1. Regression Summary (Excel)
+
+The regression summary generated using Microsoft Excel Analysis ToolPak provides regression statistics, ANOVA results, regression coefficients, and p-values used to evaluate the Linear Regression model.
 
 <p align="center">
-  <img src="screenshots/regression_summary.png" alt="Regression Summary" width="800">
+  <img src="regression_summary.png" alt="Regression Summary" width="800">
 </p>
 
 ---
 
-### 2. Distribution of Predicted Purchase Percentage
+## 2. Distribution of Predicted Purchase Percentage
 
-This histogram illustrates the distribution of predicted purchase percentages for new customers. It provides an overview of how purchase likelihood is spread across the dataset.
+This histogram shows the distribution of predicted purchase percentages for new customers, helping visualize how purchase likelihood is spread across the dataset.
 
 <p align="center">
-  <img src="screenshots/prediction_distribution.png" alt="Prediction Distribution" width="800">
+  <img src="prediction_distribution.png" alt="Prediction Distribution" width="800">
 </p>
 
 ---
 
-### 3. Income vs Predicted Purchase
+## 3. Income vs Predicted Purchase
 
-This scatter plot shows the relationship between customer income and the predicted likelihood of purchasing a hybrid vehicle. The upward trend indicates that higher-income customers generally have a higher predicted purchase likelihood.
+This scatter plot illustrates the relationship between customer income and the predicted purchase likelihood. The upward trend indicates that customers with higher incomes generally have a higher predicted probability of purchasing a hybrid vehicle.
 
 <p align="center">
-  <img src="screenshots/income_vs_prediction.png" alt="Income vs Predicted Purchase" width="800">
+  <img src="income_vs_prediction.png" alt="Income vs Predicted Purchase" width="800">
 </p>
-
 ---
 
 # Key Learning Outcomes
