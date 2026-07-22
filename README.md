@@ -222,6 +222,15 @@ This scatter plot illustrates the relationship between customer income and the p
   <img src="./screenshot/income_vs_prediction.png" width="850">
 </p>
 
+---
+
+# Business Recommendations
+
+- Target higher-income customers.
+- Prioritize customers who already own vehicles.
+- Use the predictions to support marketing campaign segmentation.
+
+---
 
 # Key Learning Outcomes
 
