@@ -241,19 +241,6 @@ More importantly, I learned that understanding the mathematical foundation of a 
 
 ---
 
-# Future Improvements
-
-Some improvements that can be made in future versions include:
-
-- Logistic Regression for binary classification
-- Model evaluation metrics (MAE, MSE, RMSE, R²)
-- Hyperparameter tuning
-- Feature engineering
-- Cross-validation
-- Interactive dashboard using Power BI
-
----
-
 # Skills Demonstrated
 
 - Python
